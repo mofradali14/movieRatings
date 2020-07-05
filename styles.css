@@ -1,0 +1,48 @@
+li {
+	list-style-type: none;
+}
+
+#remove {
+	background-color: rgb(255, 0, 0);
+	color: white;
+	border-radius: 12px;
+	padding: 6px;
+	border: hidden;
+	margin-bottom: 12px;
+}
+
+input {
+	width: 30%;
+	border-radius: 12px;
+	border: 10px;
+	border-style: double;
+	border-color: rgb(250, 164, 164);
+}
+
+h1 {
+	color: rgb(250, 164, 164);
+	font-style: italic;
+	text-align: center;
+}
+
+#submit {
+	background-color: rgb(250, 164, 164);
+	color: rgb(112, 80, 80);
+	border-radius: 12px;
+	padding: 10px;
+	border: hidden;
+}
+
+html {
+	/* background-color: rgb(75, 71, 71); */
+	background-image: linear-gradient(90deg, rgb(75, 71, 71), rgb(88, 80, 80));
+	height: 100vh;
+}
+
+li {
+	color: rgb(250, 164, 164);
+	font-size: 26px;
+}
+em {
+	color: rgb(236, 110, 110);
+}
